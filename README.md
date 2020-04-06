@@ -23,6 +23,12 @@ Respecto a lo que me gusta hacer fui Fotógrafo por un tiempo pero nada profesio
 
 ---
 
+Por pedido de [**Gaston Totaro**](https://github.com/pdepmartestm/presentacion-gtotaro)
+
+El primero de mis capítulos favoritos de tantos de Breaking Bad que se me viene a la cabeza ahora es cuando Walter desafía a Tuco y hace explotar su oficina luego de que Tuco golpee a Jesse, que si no me equivoco es de la temporada 1.
+
+---
+
 *Creo que es suficiente para una pequeña introducción sobre mi, espero que nos podamos conocer mejor en el transcurso de la cursada :D !*
 
 Encontré un buen software para Markdown (**Typora**), así que si estas leyendo esto y todavía no hiciste tu presentación te la recomiendo.
